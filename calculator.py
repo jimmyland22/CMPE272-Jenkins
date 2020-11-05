@@ -1,5 +1,5 @@
 """
-Simple Python app
+Simple Python calculator
 """
 
 def add(first_term, second_term):
